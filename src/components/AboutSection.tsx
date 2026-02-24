@@ -36,7 +36,7 @@ const AboutSection = () => {
 
 
             </p>
-            <p className="text-muted-foreground text-lg leading-relaxed font-body">Acredito que o bom design alinhado a um bom projetto resolve problemas. Trabalho de forma colaborativa, sempre buscando entender as necessidades do cliente para criar experiências memoráveis e impactantes.
+            <p className="text-muted-foreground text-lg leading-relaxed font-body">Acredito que o bom design alinhado a um bom projeto resolve problemas. Trabalho de forma colaborativa, sempre buscando entender as necessidades do cliente para criar experiências memoráveis e impactantes.
 
 
 
