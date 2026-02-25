@@ -17,9 +17,9 @@ const HeroSection = () => {
           <h1 className="heading-xl mb-6">Gabriel{" "}
             <span className="text-primary">Paturalski</span>
           </h1>
-          <p className="text-muted-foreground text-lg md:text-xl leading-relaxed max-w-lg mb-8 font-body">
-            Desenvolvedor Full Stack & Designer criativo baseado em São Paulo,
-            apaixonado por criar experiências digitais excepcionais.
+          <p className="text-muted-foreground text-lg md:text-xl leading-relaxed max-w-lg mb-8 font-body text-justify">Analista,Desenvolvedor & Designer criativo baseado em São Paulo, apaixonado por criar experiências digitais excepcionais.
+
+
           </p>
           <div className="flex gap-4">
             <a href="#contato" className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3.5 rounded-full font-body font-medium hover:opacity-90 transition-opacity">
