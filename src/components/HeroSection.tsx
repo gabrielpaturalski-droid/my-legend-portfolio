@@ -122,7 +122,7 @@ const HeroSection = () => {
             />
           </div>
 
-          <h1 className="heading-xl mb-6">
+          <h1 className="heading-xl mb-6 whitespace-nowrap">
             <SplitTextReveal text="Gabriel " delay={1.2} />
             <GlowText className="text-primary" delay={1.5}>
               Paturalski
