@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Code, Palette, Lightbulb } from "lucide-react";
 
 const highlights = [
-  { icon: Code, label: "Desenvolvimento", value: "50+ Projetos" },
+  { icon: Code, label: "Desenvolvimento", value: "30+ Projetos" },
   { icon: Palette, label: "Design", value: "30+ Interfaces" },
   { icon: Lightbulb, label: "Consultoria", value: "15+ Empresas" },
 ];
