@@ -14,15 +14,15 @@ const HeroSection = () => {
           <p className="text-muted-foreground text-lg mb-4 font-body tracking-wide uppercase">
             Olá, eu sou
           </p>
-          <h1 className="heading-xl mb-6">Gabriel
+          <h1 className="heading-xl mb-6">Gabriel 
 Paturalski
             <br />
             <span className="text-primary">Paturalski
             </span>
           </h1>
-          <p className="text-lg md:text-xl leading-relaxed max-w-lg mb-8 text-primary-foreground text-justify font-sans">Desenvolvedor & Designer criativo baseado em São Paulo, apaixonado por criar experiências e projetos  digitais excepcionais.
-
-
+          <p className="text-muted-foreground text-lg md:text-xl leading-relaxed max-w-lg mb-8 font-body">
+            Desenvolvedor Full Stack & Designer criativo baseado em São Paulo,
+            apaixonado por criar experiências digitais excepcionais.
           </p>
           <div className="flex gap-4">
             <a href="#contato" className="inline-flex items-center gap-2 bg-primary text-primary-foreground px-8 py-3.5 rounded-full font-body font-medium hover:opacity-90 transition-opacity">
