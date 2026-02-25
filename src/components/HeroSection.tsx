@@ -14,11 +14,8 @@ const HeroSection = () => {
           <p className="text-muted-foreground text-lg mb-4 font-body tracking-wide uppercase">
             Olá, eu sou
           </p>
-          <h1 className="heading-xl mb-6">Gabriel 
-Paturalski
-            <br />
-            <span className="text-primary">Paturalski
-            </span>
+          <h1 className="heading-xl mb-6">Gabriel{" "}
+            <span className="text-primary">Paturalski</span>
           </h1>
           <p className="text-muted-foreground text-lg md:text-xl leading-relaxed max-w-lg mb-8 font-body">
             Desenvolvedor Full Stack & Designer criativo baseado em São Paulo,
